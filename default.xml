@@ -16,6 +16,7 @@
   <project name="Freescale/meta-freescale-3rdparty" path="layers/meta-freescale-3rdparty" remote="github"/>
   <project name="OSSystems/meta-browser" path="layers/meta-browser" remote="github" revision="master"/>
   <project name="git/meta-freescale" path="layers/meta-freescale" remote="yocto"/>
+  <project name="git/meta-raspberrypi" path="layers/meta-raspberrypi" remote="yocto"/>
   <project name="git/meta-ti" path="layers/meta-ti" remote="yocto" revision="master"/>
   <project name="git/meta-virtualization" path="layers/meta-virtualization" remote="yocto"/>
   <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github"/>
