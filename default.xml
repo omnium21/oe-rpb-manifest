@@ -28,4 +28,5 @@
   <project name="openembedded/meta-linaro" path="layers/meta-linaro" remote="linaro"/>
   <project name="openembedded/meta-openembedded" path="layers/meta-openembedded" remote="github"/>
   <project name="openembedded/openembedded-core" path="layers/openembedded-core" remote="github"/>
+  <project name="people/ryan.harkin/meta-warp7" path="layers/meta-warp7" remote="linaro"/>
 </manifest>
