@@ -19,7 +19,7 @@
   <project name="Freescale/meta-freescale-3rdparty" path="layers/meta-freescale-3rdparty" remote="github"/>
   <project name="git/meta-freescale" path="layers/meta-freescale" remote="yocto"/>
   <project name="git/meta-virtualization" path="layers/meta-virtualization" remote="yocto"/>
-  <project name="kraj/meta-clang" path="layers/meta-clang" remote="github" revision="master"/>
+  <project name="kraj/meta-clang" path="layers/meta-clang" remote="github" revision="warrior"/>
   <project name="meta-qt5/meta-qt5" path="layers/meta-qt5" remote="github"/>
   <project name="meta-rust/meta-rust" path="layers/meta-rust" remote="github" revision="master"/>
   <project name="ndechesne/meta-qcom" path="layers/meta-qcom" remote="github"/>
